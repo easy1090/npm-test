@@ -1,0 +1,30 @@
+{
+  "name": "npm-test",
+  "version": "0.0.1",
+  "main": "index.js",
+  "bin": {
+    "cong": "./bin/cong.js"
+  },
+  "directories": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jinweigang",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "commander": "^2.9.0",
+    "express": "^4.14.0",
+    "fs": "^0.0.2",
+    "ncp": "^2.0.0"
+  },
+  "description": "npm develop demo",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/easy1090/npm-test"
+  },
+  "bugs": {
+    "url": "https://github.com/easy1090/npm-test/issues"
+  },
+  "homepage": "https://github.com/easy1090/npm-test#readme"
+}
